@@ -12,7 +12,9 @@ The goal of this project is to develop a machine learning model that can predict
 ## Dataset
 
 The dataset used for this project is [HousePricePrediction.csv](./HousePricePrediction.csv). It contains information about various houses including their features and the corresponding selling prices.
+<br>
 ##The formula for Mean Absolute Error : 
+<br>
 <img width="446" alt="image" src="https://github.com/Adityaraj2002git/House_ML/assets/121217518/abf33314-8425-4f9b-a38d-3c072e0440f1">
 
 ## Usage

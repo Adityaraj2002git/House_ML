@@ -1,7 +1,5 @@
 # House_ML
-Creating a README for a GitHub repository about a house price prediction project can help others understand the purpose of your project, how to use it, and any other relevant information. Here's a basic template you can use:
 
----
 
 # House Price Prediction
 
@@ -14,6 +12,8 @@ The goal of this project is to develop a machine learning model that can predict
 ## Dataset
 
 The dataset used for this project is [HousePricePrediction.csv](./HousePricePrediction.csv). It contains information about various houses including their features and the corresponding selling prices.
+##The formula for Mean Absolute Error : 
+<img width="446" alt="image" src="https://github.com/Adityaraj2002git/House_ML/assets/121217518/abf33314-8425-4f9b-a38d-3c072e0440f1">
 
 ## Usage
 
